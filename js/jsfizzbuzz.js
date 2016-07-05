@@ -21,6 +21,8 @@ for (var i =0; i<100; i++){
 		numbers[i]="Buzz";
 	}
 }
+//displays array data in quick & dirty horizontal list
 for (var i =0; i<100; i++){
-	document.write(numbers[i] + "<br/>")}
+	document.write(numbers[i] + "<br/>")
+}
 
