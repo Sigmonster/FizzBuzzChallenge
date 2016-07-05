@@ -1,0 +1,10 @@
+body {
+	text-align: justify;
+	word-wrap: normal;
+	width: 75%;
+	padding:2rem 2rem 2rem 2rem;
+	margin: 2rem 2rem 2rem 2rem;
+}
+html {
+	margin-right: 2rem;
+}
